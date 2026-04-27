@@ -1,4 +1,5 @@
 **Itera – AI-Powered Travel Planner**
+
 Itera is an intelligent travel planning web application that leverages Generative AI to automatically create personalized travel itineraries based on user preferences such as destination, duration, budget, and interests.
 
 **Problem Statement**
